@@ -1,0 +1,6 @@
+alias ngr="sudo systemctl restart nginx.service"
+alias ngs="sudo systemctl stop nginx.service"
+alias www="cd /var/www"
+alias wwwe="cd /etc/nginx/sites-enabled"
+alias wwwa="cd /etc/nginx/sites-available"
+alias ll="ls -al"
