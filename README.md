@@ -1,10 +1,10 @@
 ![](https://img-9gag-fun.9cache.com/photo/aGppMn5_460s.jpg)
 
 #### Stuff I do
-- 💻 Full stack developer
-- 🎨 Somewhat of a UI/UX designer 
-- 🏢 Founder of [Orb d.o.o.](https://orb.si)
-- 🎙️ Our podcast [VegaHQ](https://vegahq.com)
+- 💻 Full-stack developer
+- 🎨 Somewhat of a UI/UX designer
+- 🏢 Founder of [Aerio](https://aerio.tech)
+- 🎙️ Ppodcast [VegaHQ](https://vegahq.com)
 
 <br>
 
