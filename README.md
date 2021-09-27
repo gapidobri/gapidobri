@@ -4,7 +4,7 @@
 - 💻 Full-stack developer
 - 🎨 Somewhat of a UI/UX designer
 - 🏢 Founder of [Aerio](https://aerio.tech)
-- 🎙️ Ppodcast [VegaHQ](https://vegahq.com)
+- 🎙️ Podcast [VegaHQ](https://vegahq.com)
 
 <br>
 
