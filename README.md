@@ -5,6 +5,7 @@
 - 🎨 Somewhat of a UI/UX designer
 - 🏢 Founder of [Aerio](https://aerio.tech)
 - 🎙️ Podcast [VegaHQ](https://vegahq.com)
+- 🖥 Checkout [SimpliServers](https://simpliservers.com) for epic VPS hosting
 
 <br>
 
