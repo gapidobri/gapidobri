@@ -4,7 +4,7 @@
 - 💻 Full-stack developer
 - 🎨 Somewhat of a UI/UX designer
 - 🏢 Founder of [Aerio](https://gapi.me/github-aerio)
-- 🖥 Checkout [SimpliServers](http://gapi.me/github-simpli) for epic VPS hosting
+- 🖥 Checkout [SimpliServers](https://gapi.me/github-simpli) for epic VPS hosting
 
 <br>
 
