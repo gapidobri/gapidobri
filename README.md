@@ -1,8 +1,9 @@
 # Hello 👋🏻
 
-#### Stuff I do
-- 💻 Full-stack developer
+- 💻 Software developer
 - 🎨 Somewhat of a UI/UX designer
+- 💡 Lightning designer
+- 📺 VJ
 - 🏢 Founder of [Aerio](https://l.gapi.me/aerio)
 
 <br>
